@@ -9,6 +9,7 @@ body {
   justify-content: center;
   height: 100vh;
 }
+/* container */
 
 .container {
   background-color: #fff;
@@ -20,7 +21,7 @@ body {
   width: 100%;
   max-width: 600px;
 }
-
+/* heading style */
 
 .container h1 {
   font-size: 2.5rem;
@@ -29,7 +30,7 @@ body {
   color: #111;
   padding-bottom: 1rem;
 }
-
+/*format */
 
 form {
   display: flex;
@@ -39,7 +40,7 @@ form {
   width: 100%;
 }
 
-
+/*input */
 #review-input {
   width: 80%;
   min-height: 8rem;
@@ -67,10 +68,13 @@ form {
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
-
+/* visual effect for button hover */
 #predict-btn:hover {
   background-color: #4a58b2;
 }
+
+
+/* predicion reult */
 
 #prediction-result {
   margin-top: 1.5rem;
