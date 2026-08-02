@@ -1,4 +1,9 @@
 ## ** necessary Libraries and Modules**
+
+
+
+
+# pandas ,numpy,matplolib,seaborn ,sklearn,nltk,wordcloud,flask,pickle,os,string,re
 """
 
 import pandas as pd
