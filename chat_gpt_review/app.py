@@ -5,7 +5,9 @@ import string
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 
-# this is to ensure required NLTK resources are available nltk 
+# this is to ensure required NLTK resources are available nltk
+# 
+# # follow the requirements like flask,nltk,string,tokenisation . 
 try:
     nltk.data.find('tokenizers/punkt')
 except LookupError:
