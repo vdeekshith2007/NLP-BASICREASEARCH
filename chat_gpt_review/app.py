@@ -5,7 +5,7 @@ import string
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 
-# this is to ensure required NLTK resources are available
+# this is to ensure required NLTK resources are available nltk 
 try:
     nltk.data.find('tokenizers/punkt')
 except LookupError:
