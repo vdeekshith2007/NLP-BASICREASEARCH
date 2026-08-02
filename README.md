@@ -26,6 +26,12 @@ A simple yet effective NLP-based web application that classifies user reviews as
 
 ### advanced features are enabled in nlp reasearch.
 
+- 📊 TF-IDF vectorization
+- 🤖 ML model built using SVC
+- 🌐 Interactive and responsive web UI
+
+
+
 ---
 
 ## 🧰 Tech Stack
