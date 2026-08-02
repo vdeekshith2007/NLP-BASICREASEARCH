@@ -7,7 +7,7 @@ A simple yet effective NLP-based web application that classifies user reviews as
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshot  uploads
 
 ![App Screenshot](ChatGPT's_Review_Analysis/static/review-analysis-thumbnail.png)
 
