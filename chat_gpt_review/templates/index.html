@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Review Classifier</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>ChatGPT's Review Analysis</h1>
+    <form id="review-form">
+      
+      <textarea id="review-input" name="review" placeholder="Enter your review..." rows="5" required></textarea>
+      <button type="submit" id="predict-btn">Predict</button>
+    </form>
+    <div id="prediction-result"></div>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
