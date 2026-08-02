@@ -157,6 +157,11 @@ all_filtered_tokens = [word for tokens in df['Filtered_Tokens'] for word in toke
 word_counts_after_removal = Counter(all_filtered_tokens)
 
 # To get the 20 most common words after removing stopwords
+
+# To get the 20 most common words after removing stopwords
+
+
+
 most_common_words_after_removal = word_counts_after_removal.most_common(20)
 print(most_common_words_after_removal)
 
