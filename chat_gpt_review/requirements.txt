@@ -1,0 +1,8 @@
+Flask
+scikit-learn
+nltk
+pandas
+numpy
+
+dataset link : https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis?select=file.csv
+
