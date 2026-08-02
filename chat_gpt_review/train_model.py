@@ -85,7 +85,7 @@ df['Tokens'] = df['tweets'].apply(lambda x: tokenize_text(str(x)))
 
 df.head()
 
-pip install wordcloud
+#   pip install wordcloud
 
 """## **Plotting the WordCloud**"""
 
