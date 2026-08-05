@@ -1,4 +1,7 @@
-transformers
+
+
+# update the reqiurements.txt file with the dependenices.
+transformers 
 transformers[sentencepiece]
 datasets
 sacrebleu 
