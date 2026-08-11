@@ -1,7 +1,9 @@
 
 
 
-# update pip
+# update pip  
+
+# uv add -r requirements.tx in terminal
 langchain
 langgraph
 langchain_community
