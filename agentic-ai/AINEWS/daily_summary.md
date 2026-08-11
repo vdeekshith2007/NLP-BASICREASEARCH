@@ -1,4 +1,4 @@
-# Daily AI News Summary and grabing 
+# Daily AI News Summary and grabing  
 
 ### 2025-06-06
 
