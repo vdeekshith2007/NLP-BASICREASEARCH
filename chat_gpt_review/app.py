@@ -64,6 +64,8 @@ def index():
 
 #     return jsonify({'result': prediction})
 
+# return jsonify 
+
 @app.route('/predict', methods=['POST'])
 def predict():
     data = request.get_json()  # parse JSON
