@@ -1,5 +1,5 @@
 document.getElementById('review-form').addEventListener('submit', async function (event) {
-  event.preventDefault(); // it prevents normal form submit
+  event.preventDefault(); // it prevents normal form submit using updates 
 
   const reviewInput = document.getElementById('review-input');
   const resultDiv = document.getElementById('prediction-result');
