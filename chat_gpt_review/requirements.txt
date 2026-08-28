@@ -6,3 +6,9 @@ numpy
 
 dataset link : https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis?select=file.csv
 
+# requirements updates 
+# flask
+#sciki-learn
+# nltk
+# pandas
+# numpy
