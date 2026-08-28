@@ -1,8 +1,7 @@
 
 
 
-# update pip  
-
+# update pip   , uv pack of uv add -r reqiurements.txt
 # uv add -r requirements.tx in terminal
 langchain
 langgraph
