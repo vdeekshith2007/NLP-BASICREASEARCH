@@ -13,5 +13,5 @@ short_description: Refined langgraphAgenticAI
 
 ### End To End Agentic AI Projects
 
-The project is in development of frame works are update in langchain, langgraph,langsmith
+The project is in development of frame works are update in langchain, langgraph,langsmith, deepagents 
 
