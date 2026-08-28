@@ -14,7 +14,8 @@
 This repository documents my complete journey of learning **Natural Language Processing (NLP)** from the fundamentals to advanced concepts.
 
 The goal is not only to understand the theory but also to build real-world NLP applications using modern Deep Learning and Large Language Models (LLMs).
-natural language processing 
+natural language processing .
+
 
 ---
 
