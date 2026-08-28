@@ -3,7 +3,8 @@
 
 
 
-# pandas ,numpy,matplolib,seaborn ,sklearn,nltk,wordcloud,flask,pickle,os,string,re
+# pandas ,numpy,matplolib,seaborn ,sklearn,nltk,wordcloud,flask(backend articheture)
+# ,pickle,os,string,re
 """
 
 import pandas as pd
