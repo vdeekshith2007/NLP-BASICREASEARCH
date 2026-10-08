@@ -452,7 +452,7 @@ Please consider giving this repository a ⭐.
 
 ## 📌 Connect
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/vdeekshith2007
 
 LinkedIn: https://linkedin.com/in/yourprofile
 
