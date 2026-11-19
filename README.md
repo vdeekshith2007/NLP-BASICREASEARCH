@@ -452,7 +452,10 @@ Please consider giving this repository a ⭐.
 
 GitHub: https://github.com/vdeekshith2007
 
-LinkedIn: https://linkedin.com/in/yourprofile
+linked:www.linkedin.com/in/vataparthi-deekshith
+
+
+
 
 ---
 
